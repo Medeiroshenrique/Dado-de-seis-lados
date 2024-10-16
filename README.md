@@ -1,16 +1,15 @@
-# first_app
+# Dado-de-seis-lados
+Este projeto é a primeira aplicação prática do uso de estados de um Widget, assim, ao clicar no botão o estado do widget do Dado muda em tempo real.
+<img src="first_app_working.gif" alt="gif mostrando o aplicativo em funcionamento">
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Conceitos aplicados:
+-> Stateful Widget
+-> Gradient para fazer o degradê(pode ser alterado para um degradê azul/roxo que foi definido)
+-> Scaffold para suportar a árvore de Widgets
+-> MaterialApp para configurar o background
+-> Column
+-> Center
+-> Herança
+-> Métodos construtores
+-> Parâmetros nominais predefinidos na biblioteca Material.dart
+-> Uso de Imagens
